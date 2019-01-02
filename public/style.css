@@ -9512,10 +9512,9 @@ h3 {
     border-color: #dee2e6;
   }
 }
-p {
+body .hauteur {
   font-size: 25px;
 }
-
 body .beige {
   background-color: #f6f1e1;
   color: #6c757d;
@@ -9524,6 +9523,18 @@ body .photo1 {
   background-image: "../public/images/bg-header.png";
   height: 200 px;
   width: auto;
+}
+body .container .grisclair {
+  background-color: #dfdbce;
+}
+body .container .grisclair .gris2 {
+  background-color: #f0ede6;
+}
+body .container .grisclair .petit {
+  font-size: 13px;
+}
+body .container .grisclair i .rounded-circle {
+  background-color: #f8f9fa;
 }
 
 /*# sourceMappingURL=style.css.map */
