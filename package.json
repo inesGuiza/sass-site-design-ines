@@ -22,5 +22,8 @@
   "homepage": "https://github.com/aug126/sass-site-flati-design#readme",
   "dependencies": {
     "bootstrap": "^4.2.1"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.3"
   }
 }
