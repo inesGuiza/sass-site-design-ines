@@ -1,0 +1,26 @@
+{
+  "name": "sass-site-flati-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aug126/sass-site-flati-design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aug126/sass-site-flati-design/issues"
+  },
+  "homepage": "https://github.com/aug126/sass-site-flati-design#readme",
+  "dependencies": {
+    "bootstrap": "^4.2.1"
+  }
+}
