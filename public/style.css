@@ -9520,5 +9520,10 @@ body .beige {
   background-color: #f6f1e1;
   color: #6c757d;
 }
+body .photo1 {
+  background-image: "../public/images/bg-header.png";
+  height: 200 px;
+  width: auto;
+}
 
 /*# sourceMappingURL=style.css.map */
