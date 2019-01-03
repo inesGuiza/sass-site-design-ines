@@ -9524,6 +9524,10 @@ body .photo1 {
   height: 200 px;
   width: auto;
 }
+body .nav-link {
+  border-bottom-left-radius: 0px !important;
+  border-bottom-right-radius: 0 !important;
+}
 body .container .grisclair {
   background-color: #dfdbce;
 }
@@ -9545,11 +9549,35 @@ body p {
 body .col-4 .marine {
   background-color: #1a2c3d;
 }
+body .col span {
+  background-color: #fff;
+  border-radius: 100%;
+  width: 3rem;
+  height: 3rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
 body .fond {
   background-color: #2f66db;
+  opacity: 0.9;
+  color: rgba(255, 255, 255, 0.5);
+}
+body .fond a {
+  color: rgba(255, 255, 255, 0.5);
 }
 body .espacement {
   letter-spacing: 2px;
+}
+body .fondd {
+  background-color: #343a40;
+}
+body footer {
+  opacity: 0.9;
+  color: rgba(255, 255, 255, 0.5);
 }
 
 /*# sourceMappingURL=style.css.map */
