@@ -9545,5 +9545,11 @@ body p {
 body .col-4 .marine {
   background-color: #1a2c3d;
 }
+body .fond {
+  background-color: #2f66db;
+}
+body .espacement {
+  letter-spacing: 2px;
+}
 
 /*# sourceMappingURL=style.css.map */
