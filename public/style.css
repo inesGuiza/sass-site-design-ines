@@ -9536,5 +9536,14 @@ body .container .grisclair .petit {
 body .container .grisclair i .rounded-circle {
   background-color: #f8f9fa;
 }
+body #button {
+  font-size: 13px;
+}
+body p {
+  font-size: 13px;
+}
+body .col-4 .marine {
+  background-color: #1a2c3d;
+}
 
 /*# sourceMappingURL=style.css.map */
